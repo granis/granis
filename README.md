@@ -1,5 +1,7 @@
-### Hi there 👋
+### ✨
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=granis&margin-w=15&margin-h=15&theme=darkhub&column=3)](https://github.com/granis)
 <!--
 **granis/granis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
