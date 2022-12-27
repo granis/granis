@@ -1,7 +1,10 @@
-### ✨
+### ✨ Github stats
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=granis&margin-w=15&margin-h=15&theme=darkhub&column=3)](https://github.com/granis)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=granis&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=granis&margin-w=15&margin-h=15&column=3)](https://github.com/granis)
+
 <!--
 **granis/granis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
